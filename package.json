@@ -1,0 +1,22 @@
+{
+  "name": "autorec",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ShimixD/autorec",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ffmpeg",
+    "recording",
+    "live",
+    "streaming",
+    "video"
+  ],
+  "author": "Jimmy",
+  "license": "MIT",
+  "description": "Sistema de grabación automática de canales en vivo hecho con FFMPEG.",
+  "dependencies": {
+    "ffmpeg-installer": "^1.0.2"
+  }
+}
