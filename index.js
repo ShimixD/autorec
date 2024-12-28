@@ -7,8 +7,8 @@ const recordings = [
     {
         streamUrl: "https://amg01024-amg01024c2-directtv-latam-5619.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-freetvaccionlatam-directtvlatam/playlist.m3u8",
         output: "grabacion1.mp4",
-        startTime: new Date("2024-12-27T20:41:00"),
-        endTime: new Date("2024-12-27T20:42:00")
+        startTime: new Date("2024-12-27T21:31:00"),
+        endTime: new Date("2024-12-27T21:32:00")
     },
 ];
 

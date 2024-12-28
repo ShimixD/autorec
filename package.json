@@ -17,6 +17,6 @@
   "license": "MIT",
   "description": "Sistema de grabación automática de canales en vivo hecho con FFMPEG.",
   "dependencies": {
-    "ffmpeg-installer": "^1.0.2"
+    "@ffmpeg-installer/ffmpeg": "^1.1.0"
   }
 }
